@@ -101,7 +101,7 @@ Make sure it is in the same format as the original file and has the same name an
 19. Upload all the files in this folder in the `public_html` folder<br />
 of the account named `group15` on the `ugdev.cs.smu.ca` server,<br />
 overwriting the existing files with the same name
-20. Run the updated app by opening a browser and visiting the URL [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/)
+20. Run the updated app by opening a browser and visiting the URL [https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/)
 
 - Done.
 

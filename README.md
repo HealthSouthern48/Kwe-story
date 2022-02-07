@@ -24,7 +24,7 @@ Sheikh Saad Abdullah
 
 Files to be put on the public server.
 
-The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/) for general use.
+The website can be accessed at [https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/) for general use.
 
 ---
 
@@ -49,7 +49,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 1. Open a web browser (Safari, Edge, Firefox, etc.)
 
 2. In the browser search bar, type or paste the following URL:<br />
-[https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/)
+[https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/)
 
 3. Press the Enter/Return key
 

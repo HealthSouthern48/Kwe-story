@@ -24,7 +24,7 @@ Sheikh Saad Abdullah
 
 Files to be put on the public server.
 
-The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/) for general use.
+The website can be accessed at [https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/) for general use.
 
 ---
 
@@ -49,7 +49,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 1. Open a web browser (Safari, Edge, Firefox, etc.)
 
 2. In the browser search bar, type or paste the following URL:<br />
-[https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/)
+[https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/)
 
 3. Press the Enter/Return key
 
@@ -101,7 +101,7 @@ Make sure it is in the same format as the original file and has the same name an
 19. Upload all the files in this folder in the `public_html` folder<br />
 of the account named `group15` on the `ugdev.cs.smu.ca` server,<br />
 overwriting the existing files with the same name
-20. Run the updated app by opening a browser and visiting the URL [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/)
+20. Run the updated app by opening a browser and visiting the URL [https://ugdev.cs.smu.ca/~group18/](https://ugdev.cs.smu.ca/~group18/)
 
 - Done.
 
